@@ -1,0 +1,27 @@
+{
+  "name": "@agaroot/esbuild-cli",
+  "version": "1.0.0",
+  "description": "A esbuild cli that reads the config file and executes it.",
+  "keywords": [
+    "agaroot",
+    "typescript",
+    "esbuild",
+    "config",
+    "cli"
+  ],
+  "files": [
+    "dist",
+    "LICENSE",
+    "README.md"
+  ],
+  "homepage": "https://github.com/agaroot-technologies/esbuild-cli",
+  "bugs": {
+    "url": "https://github.com/agaroot-technologies/esbuild-cli/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agaroot-technologies/esbuild-cli.git"
+  },
+  "license": "MIT",
+  "packageManager": "pnpm@8.15.2"
+}
